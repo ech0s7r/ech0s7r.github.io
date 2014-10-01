@@ -7,9 +7,9 @@ tags: [intro, beginner, jekyll, tutorial]
 comments: true
 published: false
 image:
-  feature: texture-feature-05.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: sample-image-5.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <section id="table-of-contents" class="toc">
