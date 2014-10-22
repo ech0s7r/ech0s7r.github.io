@@ -2,7 +2,7 @@
 
 title:            ech0s7r
 locale:           it_IT
-url:              http://ech0s7r.github.io
+url:              #http://ech0s7r.github.io
 
 
 # Jekyll configuration
@@ -41,7 +41,7 @@ owner:
     ad-slot: 
   bing-verify: 
   github: ech0s7r
-  stackoverflow: http://stackoverflow.com/users/658501/ech0s7r
+  stackoverflow: ech0s7r
   linkedin: #username
   instagram: #username
   lastfm: #username
