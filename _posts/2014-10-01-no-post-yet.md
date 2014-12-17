@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Post Yet"
+title: "Note"
 modified:
 categories: 
 excerpt:
