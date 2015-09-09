@@ -29,4 +29,4 @@ few years ago I'm using OS X as the main system, but I cannot live without shell
 <br>
 My favorite languages are C and Java.
 
-<div style='text-align: center'>I live in Italy.</div>
+<div style='text-align: center'>I live in USA.</div>
