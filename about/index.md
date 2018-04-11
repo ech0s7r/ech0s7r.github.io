@@ -27,6 +27,6 @@ i enjoy working with the latest technologies.
 I develop since I was 7 years old and I've always used linux as main system, since 
 few years ago I'm using OS X as the main system, but I cannot live without shell.
 <br>
-My favorite languages are C and Java.
+My favorite languages are C and Kotlin.
 
 <div style='text-align: center'>I live in USA.</div>
