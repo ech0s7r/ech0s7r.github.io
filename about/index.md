@@ -16,7 +16,7 @@ i'm a software engineer by passion, then profession, with main interests in:
 
 * ```Android native development```
 * ```AOSP hacking```
-* ```Embedded architecture (Rpi)```
+* ```Embedded systems```
 * ```Real-time development```
 * ```Unix/Linux system```
 * ```System/Object design```
@@ -24,7 +24,7 @@ i'm a software engineer by passion, then profession, with main interests in:
 In general everything about open source and computer science,
 i enjoy working with the latest technologies.
 <br/>
-I develop since I was 7 years old and I've always used linux as main system, since 
+I develop since I was 10 years old and I've always used linux as main system, since 
 few years ago I'm using OS X as the main system, but I cannot live without shell.
 <br>
 My favorite languages are C and Kotlin.
