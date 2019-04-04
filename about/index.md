@@ -12,7 +12,7 @@ image:
 ---
 
 Hi,  
-i'm a software engineer by passion, then profession, with main interests in:
+I'm a software engineer by passion, then profession, with main interests in:
 
 * ```Android native development```
 * ```AOSP hacking```
