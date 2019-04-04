@@ -22,11 +22,11 @@ i'm a software engineer by passion, then profession, with main interests in:
 * ```System/Object design```
 
 In general everything about open source and computer science,
-i enjoy working with the latest technologies.
+I enjoy working with the latest technologies.
 <br/>
 I develop since I was 10 years old and I've always used linux as main system, since 
 few years ago I'm using OS X as the main system, but I cannot live without shell.
 <br>
 My favorite languages are C and Kotlin.
 
-<div style='text-align: center'>I live in USA.</div>
+<div style='text-align: center'>I live in Dublin.</div>
